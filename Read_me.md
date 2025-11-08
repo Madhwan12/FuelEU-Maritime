@@ -60,3 +60,8 @@ http://localhost:5173
 | POST | `/pools` | Create pooling allocation |
 ---
 
+[Routes page](./assets/routes.png)
+[Comparision page](./assets/compare_page.png)
+[Comparision pchartage](./assets/compare.png)
+[Banking page](./assets/banking.png)
+[Pooling page](./assets/pooling.png)
